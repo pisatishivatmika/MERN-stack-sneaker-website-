@@ -5,6 +5,7 @@ I developed a full-stack e-commerce website using the MERN stack (MongoDB, Expre
  
  #### User Experience: Focused on creating an intuitive and user-friendly interface for both customers and administrators.
 #### Security: Implemented secure authentication and authorization mechanisms.
+#### payment: Introducing a streamlined checkout and payment feature for effortless transactions.
 #### Scalability: Designed the application to handle a growing user base and expanding product catalog.
 #### Performance: Optimized for fast loading times and efficient data handling.
 
