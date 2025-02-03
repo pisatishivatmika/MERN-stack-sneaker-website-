@@ -149,7 +149,7 @@ const Register = () => {
 <div className="flex items-center justify-center">
   <div className="text-center">
     <img 
-      src="https://lh3.googleusercontent.com/gg/AJIvXivmvb2TJlwqHL_SD4M0tj7PVRj2NNIDFOk5Kr2ehGorGcfS8NVkBPWBn5Jb1dXAIY5dYdUAsCkroF1ULQ4R4Ugvy8cQsGN1IbTZxvKTg-DlnjOHrcvX6P3wGf485y85fHrZW6BwakHXGlquRMOajEazj4YeSvZNiVF7ut0MKuCGr1FjLCSR6PeocCCHu3XIsJURk30OHIzGEZMdS6qSL45HVzalEFBZcMzxjY2nmBouU1vjsfGmJEVJkrqp-KAMkq7cwDePkN9-wDS6hGsLuVwXSYlnXNK5taLS7t87_3N3exB4SYtRjf66d-yMyRBaHZ-M34oEsMtAd3iDQs7Buc8R" 
+      src="https://www.gosanangelo.com/gcdn/presto/2021/12/16/PSAT/965f9a4f-7367-41a4-9aff-0a6651beb3ff-IMG_0763.jpg?width=1200&disable=upscale&format=pjpg&auto=webp" 
       alt="Login Image" 
       className="mx-auto mb-4 w-200 h-200" 
     />
