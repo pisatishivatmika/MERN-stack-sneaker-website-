@@ -7,8 +7,8 @@ export default defineConfig({
   base: "/shivatmika-Ecommerce",
   server: {
     proxy: {
-      "/api/": "http://localhost:8080",
-      "/uploads/": "http://localhost:8080",
+      "/api/": "https://shivatmika-ecommerce.onrender.com",
+      "/uploads/": "https://shivatmika-ecommerce.onrender.com",
     },
   },
 });
