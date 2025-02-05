@@ -9,12 +9,12 @@
     "frontend": "npm run dev --prefix frontend",
     "dev": "concurrently \"npm run frontend\" \"npm run backend\"",
     "start": "node index.js"
-
   },
   "keywords": [],
   "author": "shivatmika reddy",
   "license": "ISC",
   "dependencies": {
+    "apexcharts": "^4.4.0",
     "bcryptjs": "^2.4.3",
     "concurrently": "^8.2.2",
     "cookie-parser": "^1.4.6",
