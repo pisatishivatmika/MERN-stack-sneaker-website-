@@ -13,8 +13,7 @@ import uploadRoutes from "./routes/uploadRoutes.js";
 import orderRoutes from "./routes/orderRoutes.js";
 
 dotenv.config();
-// const port = process.env.PORT || 8080;
-const port = 8080;
+const port = process.env.PORT || 8080;
 connectDB();
 
 const app = express();
